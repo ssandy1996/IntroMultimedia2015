@@ -13,13 +13,13 @@
  #
  # You should have received a copy of the GNU General Public License
  # along with this program.  If not, see <http://www.gnu.org/licenses/>.
- # ----------------------------------------------------------------------
+ # ---------------------------------------------------------------------
  # Function:
  #		JPEG like Image encoder and decoder.
- # ----------------------------------------------------------------------
+ # ---------------------------------------------------------------------
  # Usage:
  # 		Check the associated readme file in the repository.
- # ----------------------------------------------------------------------
+ # ---------------------------------------------------------------------
  # Author:
  # 		S Sandeep Kumar
  # 		E-mail : ee13b1025@iith.ac.in
