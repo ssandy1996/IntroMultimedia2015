@@ -29,7 +29,7 @@ import cv2
 import os
 import numpy as np
 import matplotlib.pyplot as plt
-from hwFunc import *
+from ImageHistogramEntropy import *
 
 # Ensure images are in working directory
 aerialFile = '5.1.10.tiff'
